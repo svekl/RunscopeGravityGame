@@ -312,6 +312,7 @@
 					0E6255D11BDEFF0700DA9AE9 = {
 						CreatedOnToolsVersion = 7.0.1;
 						DevelopmentTeam = 5Z97G9NZQ6;
+						ProvisioningStyle = Manual;
 					};
 					0E6255EA1BDEFF0800DA9AE9 = {
 						CreatedOnToolsVersion = 7.0.1;
@@ -547,6 +548,8 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = meirav.com.novn.Gravity;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "50d1de44-723d-4165-82a1-0acd2a854b62";
+				PROVISIONING_PROFILE_SPECIFIER = "meirav Prov";
 			};
 			name = Debug;
 		};
@@ -559,6 +562,8 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = meirav.com.novn.Gravity;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "50d1de44-723d-4165-82a1-0acd2a854b62";
+				PROVISIONING_PROFILE_SPECIFIER = "meirav Prov";
 			};
 			name = Release;
 		};
